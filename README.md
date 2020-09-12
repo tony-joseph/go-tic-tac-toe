@@ -1,5 +1,7 @@
 # Tic-tac-toe
 
+[![Build Status](https://travis-ci.org/tony-joseph/go-tic-tac-toe.svg?branch=master)](https://travis-ci.org/tony-joseph/go-tic-tac-toe)
+
 A tic-tac-toe game written in Go.
 
 
